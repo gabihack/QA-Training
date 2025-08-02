@@ -1,5 +1,7 @@
+# Introducción al rol del QA Tester
+
 Qué hace un QA Tester?
-QA Tester verifica que el software cumpla con los requisitos y funcione sin errores. Ejecuta casos de prueba, reporta defectos, colabora con desarrolladores para reproducir fallos y valida las correcciones antes del lanzamiento.
+QA Tester verifica que el software cumpla con los requisitos y funcione sin errores. Ejecuta casos de prueba, reporta defectos, colabora con desarrolladores para reproducir fallos y valida las corr[...]  
 
 Tipos de testing (mínimo 4)
 Pruebas funcionales
