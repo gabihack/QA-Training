@@ -1,7 +1,7 @@
 # Introducción al rol del QA Tester
 
 Qué hace un QA Tester?
-QA Tester verifica que el software cumpla con los requisitos y funcione sin errores. Ejecuta casos de prueba, reporta defectos, colabora con desarrolladores para reproducir fallos y valida las corr[...]  
+QA Tester verifica que el software cumpla con los requisitos y funcione sin errores. Ejecuta casos de prueba, reporta defectos, colabora con desarrolladores para reproducir fallos y valida las correcciones.
 
 Tipos de testing (mínimo 4)
 Pruebas funcionales
@@ -42,11 +42,13 @@ Eficiente para regresión, datos de gran volumen y pruebas repetitivas.
 Requiere mantenimiento de scripts y conocimientos de programación.
 
 Qué hace el QA en cada fase del STLC
-Fase	Actividades del QA
-Planificación	Define alcance, objetivos y criterios de calidad; plan de pruebas.
-Análisis	Revisión de requerimientos; diseño de casos de prueba.
-Diseño	Detalla escenarios, datos de prueba y establece pasos de ejecución.
-Implementación	Desarrolla scripts automatizados; prepara entornos de prueba.
-Ejecución	Ejecuta pruebas, registra resultados y reporta defectos.
-Cierre	Verifica que todos los defectos críticos estén resueltos; genera reportes finales.
-Mantenimiento	Actualiza casos de prueba según cambios y nuevos requisitos.
+
+| Fase             | Actividades del QA                                                                                   |
+|------------------|-----------------------------------------------------------------------------------------------------|
+| Planificación    | Define alcance, objetivos y criterios de calidad; plan de pruebas.                                   |
+| Análisis         | Revisión de requerimientos; diseño de casos de prueba.                                               |
+| Diseño           | Detalla escenarios, datos de prueba y establece pasos de ejecución.                                 |
+| Implementación   | Desarrolla scripts automatizados; prepara entornos de prueba.                                       |
+| Ejecución        | Ejecuta pruebas, registra resultados y reporta defectos.                                            |
+| Cierre           | Verifica que todos los defectos críticos estén resueltos; genera reportes finales.                  |
+| Mantenimiento    | Actualiza casos de prueba según cambios y nuevos requisitos.                                        |
