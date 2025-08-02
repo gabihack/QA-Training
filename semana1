@@ -1,1 +1,30 @@
-/QA-Training/semana1/01-rol-del-qa.md
+# ¿Qué hace un QA Tester?
+
+Un QA Tester (Quality Assurance Tester) se encarga de asegurar la calidad de los productos de software mediante la identificación de errores, validación de funcionalidades y verificación de que el producto cumple con los requisitos establecidos. Su trabajo consiste en probar el software desde la perspectiva del usuario final para detectar posibles fallos antes de que llegue a producción.
+
+# Tipos de testing
+
+1. **Testing de Caja Negra** (Funcional)
+   - Valida que el sistema cumpla con los requisitos funcionales sin considerar la lógica interna del código.
+2. **Testing de Caja Blanca** (Funcional)
+   - Evalúa el funcionamiento interno del sistema, revisando la estructura del código y los flujos de ejecución.
+3. **Testing de Rendimiento** (No funcional)
+   - Verifica cómo responde el sistema bajo diferentes cargas de trabajo, midiendo velocidad, estabilidad y escalabilidad.
+4. **Testing de Usabilidad** (No funcional)
+   - Evalúa la experiencia del usuario, asegurándose de que el sistema sea fácil de usar y entender.
+
+# Diferencias entre testing manual y automatizado
+
+- **Testing manual:** El tester ejecuta las pruebas de forma manual, siguiendo pasos definidos y validando los resultados, útil para pruebas exploratorias o casos complejos.
+- **Testing automatizado:** Utiliza herramientas y scripts para ejecutar pruebas de manera automática, ideal para pruebas repetitivas, regresión y validaciones rápidas.
+
+# Rol del QA en cada fase del STLC
+
+| Fase del STLC           | Rol del QA Tester                                                                 |
+|------------------------|---------------------------------------------------------------------------------|
+| Requerimientos         | Analiza y revisa los requisitos, identifica posibles inconsistencias y dudas.     |
+| Planificación          | Define la estrategia de pruebas y selecciona tipos de testing a aplicar.          |
+| Diseño de casos de prueba | Crea y revisa los casos de prueba, asegurando cobertura y claridad.              |
+| Configuración de entorno | Prepara el entorno de pruebas, datos y herramientas necesarias.                  |
+| Ejecución de pruebas    | Ejecuta los casos de prueba, reporta errores y documenta hallazgos.               |
+| Cierre                 | Verifica la resolución de errores, documenta resultados y realiza retroalimentación.
